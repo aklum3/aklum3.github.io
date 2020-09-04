@@ -12,7 +12,7 @@ labels:
   - C
 summary: Designed, constructed, and programmed an autonomous robot to find the center of a maze (awarded 1st place at UH Manoa competition for fastest time).
 ---
-  <img class="ui image" src="../images/mmMaze.png">
+  <img src="../images/mmMaze.png">
   <img class="ui image" src="../images/mmBoard.png">
   <img class="ui image" src="../images/mmMouse.png">
 

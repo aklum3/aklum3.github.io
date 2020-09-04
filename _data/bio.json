@@ -46,19 +46,28 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Software",
       "level": "",
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "MATLAB",
+        "AutoCAD",
+        "Fusion360",
+        "SolidWorks",
+        "MPLAB",
+        "Verilog",
+        "SystemVerilog",
+        "VHDL",
+        "Windows OS",
+        "Mac OS",
+        "Linux OS",
+        "MS Office"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Hardware",
       "level": "",
       "keywords": [
         "MacOS",

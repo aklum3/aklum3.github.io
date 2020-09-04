@@ -13,13 +13,16 @@ body {
   background-image:    -moz-linear-gradient(top left, #72d2f8, #f3afd9);
   background-image:      -o-linear-gradient(top left, #72d2f8, #f3afd9);
   background-image:         linear-gradient(to bottom right, #72d2f8, #f3afd9);
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
+  // background-size: cover;
+  // background-attachment: fixed;
+  // background-repeat: no-repeat;
+  // background-position: 50% 50%;
   height: 100%;
-  //width: 1920px;
-  resize: both;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  // width: 1920px;
+  // resize: both;
   // overflow: scroll;
 }
 

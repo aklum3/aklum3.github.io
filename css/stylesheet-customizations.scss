@@ -19,10 +19,14 @@ body {
  // background-image: -webkit-linear-gradient(top left, #72d2f8, #f3afd9);
  //background-image:    -moz-linear-gradient(top left, #72d2f8, #f3afd9);
  // background-image:      -o-linear-gradient(top left, #72d2f8, #f3afd9);
-  background-image:         linear-gradient(to bottom right, #72d2f8, #f3afd9);
+  //background-image:         linear-gradient(to bottom right, #72d2f8, #f3afd9);
 
 
-    height: 1920px;
+   // height: 1920px;
+  background: #1899A5;
+background: -webkit-linear-gradient(top left, #1899A5, #F3AFD9);
+background: -moz-linear-gradient(top left, #1899A5, #F3AFD9);
+background: linear-gradient(to bottom right, #1899A5, #F3AFD9);
 }
 
 // Customize the menubar color

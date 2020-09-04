@@ -14,9 +14,10 @@ body {
   background-image:      -o-linear-gradient(top left, #72d2f8, #f3afd9);
   background-image:         linear-gradient(to bottom right, #72d2f8, #f3afd9);
   background-size: cover;
-  height: 1080px;
-  width: 1920px;
-  resize: both;
+  background-position: 50% 50%;
+  //height: 1080px;
+  //width: 1920px;
+  //resize: both;
   // overflow: scroll;
 }
 

@@ -24,6 +24,6 @@ This is a simple algorithm for main structure of our game:
   <img class="ui image" src="../images/egAlgo.PNG">
 </div>
 
-To view the whole:
+Email me for access to the Source: [GitHub repository](https://github.com/aklum3/205Final)
 
 

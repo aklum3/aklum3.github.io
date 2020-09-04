@@ -87,6 +87,13 @@
       "endDate": "Present",
       "gpa": "3.6",
       "courses": [
+        "Circuit Analysis",
+        "Signal and System Analysis",
+        "Digital Design",
+        "Digital Systems and Computer Design",
+        "Physical Electronics",
+        "Discrete Math",
+        "Electromagnetics"
       ]
     }
   ],

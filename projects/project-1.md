@@ -13,9 +13,11 @@ labels:
 summary: Designed, constructed, and programmed an autonomous robot to find the center of a maze (awarded 1st place at UH Manoa competition for fastest time).
 ---
 
-<img class="ui tiny left circular floated image" src="../images/mmMaze.jpg">
-<img class="ui tiny left circular floated image" src="../images/mmBoard.jpg">
-<img class="ui tiny left circular floated image" src="../images/mmMouse.jpg">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/mmMaze.png">
+  <img class="ui image" src="../images/mmBoard.png">
+  <img class="ui image" src="../images/mmMouse.png">
+</div>
 
 Micromouse is a competition, where a small robot (called a mice or mouse) solves a 16x16 maze.  Each team creates their own mouse which is expected to be fully autonomous and capable of navigating through the maze.  The maze is a 16x16 grid of cells each 180x180 millimeters.  The walls are 50 mm high and the maze is designed randomly for each competition.  The mouse starts at a designated corner in the maze and must find its way to one of the four center-cells of the maze.  The goal is to reach the center in the shortest amount of time, given a certain time limit.  Within that time, the mouse will usually first 'explore' the maze and map out different routes to the center until it finds the most optimal path.  From there, it will return to the start and try for a better time from the starting position to the center.
 

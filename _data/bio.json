@@ -101,7 +101,7 @@
     {
       "company": "UH Manoa Marine Embedded Systems Laboratory",
       "position": "Researcher",
-      "website": "",
+      "website": "https://www.soest.hawaii.edu/oceanography/glazer/Brian_T._Glazer/Home.html",
       "startDate": "2019-09-01",
       "endDate": "Present",
       "summary": "Establishing a wireless real-time coastal monitoring network around the state, used to assist with environmental restoration and management efforts",
@@ -116,22 +116,22 @@
       "website": "https://welumen8.wixsite.com/2018",
       "startDate": "2018-08-01",
       "endDate": "2019-05-01",
-      "summary": "",
+      "summary": "Fabricated inexpensive lighting products powered by thermoelectric generators",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed and assembled a novel multi-tool flashlight and other lighting products such as headlamps and reading lights using Fusion360 to accommodate various circuit designs",
+        "Support developing countries and locations affected by natural disasters through NGO partnership"
       ]
     },
         {
       "company": "UH Manoa College of Engineering",
       "position": "Course Grader",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "website": "https://www.eng.hawaii.edu/",
+      "startDate": "2019-01-01",
+      "endDate": "2019-05-01",
+      "summary": "Assisted professor with grading students’ code for entry-level programming class",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Created answer keys for weekly C-programming assignments",
+        "Communicated with the professor at weekly meetings to provide feedback on student performance and suggested topics for teaching assistants to focus on each week"
       ]
     }
   ],

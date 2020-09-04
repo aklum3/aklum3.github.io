@@ -13,10 +13,16 @@ body {
   //background: linear-gradient(to bottom right, #72d2f8, #f3afd9);
   //height: 300px;
   // background: -webkit-linear-gradient(left, transparent 0%,#fff 50%,transparent 100%);
-    background-image:         linear-gradient(to bottom, #72d2f8, #f3afd9);
+
+  background-color: #72d2f8;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#72d2f8), to(#f3afd9));
+  background-image: -webkit-linear-gradient(top, #72d2f8, #f3afd9);
+  background-image:    -moz-linear-gradient(top, #72d2f8, #f3afd9);
+  background-image:      -o-linear-gradient(top, #72d2f8, #f3afd9);
+  background-image:         linear-gradient(to bottom, #72d2f8, #f3afd9);
 
 
-    height: 1920px;
+    height: 300px;
 }
 
 // Customize the menubar color

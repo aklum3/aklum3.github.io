@@ -20,7 +20,7 @@ Along with fabricating a turn-based battle game implementing object-oriented pro
 I was able to practice programming with objects during this project and became very comfortable with utilizing them in my future work.  I also learned how to be more patient and persistent.  I believe that the amount of troubleshooting I had to do for this game was very frustrating at times.  But in the end, I learned that sometimes it’s better to take a break for the day and attempt the problem again the following day.
 
 This is a simple algorithm for main structure of our game:
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/egAlgo.PNG">
 </div>
 

@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: Asking Questions, Smart or Stupid?
+# All dates must be YYYY-MM-DD format!
+date: 2020-09-09
+labels:
+  - Smart Questions
+  - StackOverflow
+  - Software Engineering
+---
+
+##The Classic Cliché
+Many people are familiar with the popular saying that there is no such thing as a stupid question.  And although there may be some truth in that statement, I believe there is a distinct difference in a smart way to ask a question and a ‘not smart’ way to ask a question.  People ask questions to clarify or learn more about a topic they are not familiar with.  I think it is unfair for people to expect everyone to be as knowledgeable as them in a certain topic.  But the way a question is formatted can influence the way people perceive it, either as a smart question or not.  It is important that software engineers know the difference between the two because asking questions for help with work is inevitable and being able to utilize smart questions can result in constructive answers.
+

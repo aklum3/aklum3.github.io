@@ -1,17 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Project: _"
+title: "Project: Plug"
 date: 2020-11-01
 labels:
   - Software Engineering
   - Meteor
 ---
 
+Authors: Alexander Lum & Riley Sodetani
+
 ## Overview
 <em>The Problem:</em> There are many different digital entertainment options and it is difficult to know which are good without devoting time to try them yourself.  As a result, people can waste too much time, either deciding on what to indulge next or trying something they may not enjoy.
 
-<em>The Solution:</em> The _ app enables you to login and creates a quick and simple way for users to look for TV shows, movies, or games that align with their interests. Users can also use their profile to leave reviews and recommendations in order to help others.
+<em>The Solution:</em> The Project Plug app enables you to login and creates a quick and simple way for users to look for TV shows, movies, or games that align with their interests. Users can also use their profile to leave reviews and recommendations in order to help others.
 
 ## Approach
 TV shows, movies, and videogames will have a profile for their product which users can then leave reviews on it and recommend to their friends. There will be two types of users. Industry professionals like producers and game developers will be able to create these profiles for projects that have been released to the public. Standard users will be able to leave comments, reviews, and ratings on these profiles. They also have the ability to recommend things which will place their review and rating on a page with all their other recommendations. Standard users will receive recommendations based on things they have recommended.  Admins have the abilities of both accounts. 
@@ -41,3 +43,4 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Users can follow their friends like social media
 * Users can upvote, downvote, and comment on the reviews of others
 * Direct message and notifications (make new friends)
+

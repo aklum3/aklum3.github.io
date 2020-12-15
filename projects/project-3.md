@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/endgame.png
+image: images/cclogo.png
 title: Campus Cravings
 permalink: projects/campuscravings
 # All dates must be YYYY-MM-DD format!
@@ -13,11 +13,11 @@ labels:
 summary: Collaborated on programming the Campus Cravings app which provides an up-to-date resource on everything food related at UH Manoa.
 ---
 
-The purpose of this project was to showcase our knowledge on object-oriented programming and implement certain features into a program.  We decided to build a 2 player turn-based battle game, similar to Pokémon.  To explain it briefly, each player will choose four out of the sixteen different characters for their team.  The goal is to eliminate all of the other player’s characters.  Each character has their own move set and stats.  Each player is able to choose up to 2 characters that they want to use per turn.
+Since University of Hawaii at Manoa’s campus has a variety of food vendors, it can be difficult for students and staff to keep up with what’s available. Many of the locations on campus have different choices, depending what they decide to offer on any given day. There is no easy and concise way to track all of these options and their daily menus: Paradise Palms, campus center, food trucks, etc.
 
-Along with fabricating a turn-based battle game implementing object-oriented programming, I delegated tasks to team members and kept the team updated on the application’s progress.  We utilized C++ techniques to incorporate features such as unique character classes with stats (health, attack, speed) and moves as well as a targeting and attack order function.
+The Campus Cravings app aims to solve this problem by providing an up-to-date resource on everything food related at UH Manoa. Our completed product will allow vendors to create online menus detailing when and where certain dishes will be avaliable. Students will be able to view the food avaliable in the moment as well as browse the top picks of the day.
 
-I was able to practice programming with objects during this project and became very comfortable with utilizing them in my future work.  I also learned how to be more patient and persistent.  I believe that the amount of troubleshooting I had to do for this game was very frustrating at times.  But in the end, I learned that sometimes it’s better to take a break for the day and attempt the problem again the following day.
+I was able to practice programming with JavaScript during this project and became very comfortable with utilizing it in my future work.  I also learned how to be more patient and persistent.  I believe that the amount of troubleshooting I had to do for this app was very frustrating at times.  But in the end, I learned that sometimes it’s better to take a break for the day and attempt the problem again the following day.
 
 This is a screen capture of the landing page:
 <div class="ui large rounded images">
